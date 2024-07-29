@@ -1,4 +1,4 @@
-# Linux-Shell-Creation
+# Linux-Shell
 
 ## Overview
 
@@ -20,7 +20,7 @@ Run `make run`. It would print user name and prsent directory
 
 ```txt
 USER is: @manvi-agrawal
-Dir: /home/manvi-agrawal/Linux-Shell-Creation
+Dir: /home/manvi-agrawal/Linux-Shell
 ```
 
 ### Examples
@@ -28,7 +28,7 @@ Dir: /home/manvi-agrawal/Linux-Shell-Creation
 ```txt
 Welcome: @manvi-agrawal 
 
-manvi-agrawal@/home/manvi-agrawal/Linux-Shell-Creation : help
+manvi-agrawal@/home/manvi-agrawal/Linux-Shell : help
 List of Commands supported:
 Internal commands:
 cd
@@ -41,10 +41,10 @@ date(-u, -R)
 rm(-i, -v)
 mkdir(-p, -v)
 
-manvi-agrawal@/home/manvi-agrawal/Linux-Shell-Creation : ls -a
+manvi-agrawal@/home/manvi-agrawal/Linux-Shell : ls -a
 build  .git  test  .  .gitignore  src  ..  README.md  makefile
 
-manvi-agrawal@/home/manvi-agrawal/Linux-Shell-Creation : mkdir -p test/manvi
+manvi-agrawal@/home/manvi-agrawal/Linux-Shell : mkdir -p test/manvi
 
-manvi-agrawal@/home/manvi-agrawal/Linux-Shell-Creation : cd test
+manvi-agrawal@/home/manvi-agrawal/Linux-Shell : cd test
 ```
